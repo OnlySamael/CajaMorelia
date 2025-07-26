@@ -1,7 +1,7 @@
 # CajaMorelia
 # API Clientes - Evaluación Técnica
 
-Este proyecto es una API REST construida en **.NET 6+** con arquitectura **hexagonal**, que permite la gestión de la entidad `Cliente`. Incluye funcionalidades CRUD, validación de API Key mediante middleware, y separación por capas usando buenas prácticas de Clean Architecture.
+Este proyecto es una API REST construida en **.NET 8** con arquitectura **hexagonal**, que permite la gestión de la entidad `Cliente`. Incluye funcionalidades CRUD, validación de API Key mediante middleware, y separación por capas usando buenas prácticas de Clean Architecture.
 
 ---
 
